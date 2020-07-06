@@ -19,3 +19,37 @@
   padding: 9px 25px;
   cursor: pointer;
 }
+
+.categories1, .categories2, .categories3 {
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.categories1{
+  background-color: #ffa500;
+}
+.categories2{
+  background-image: linear-gradient(to bottom, #ff5898 0%, #ff136e 100%);
+}
+.categories3{
+  background-color: blue;
+}
+.categories h1{
+  color: #fff;
+}
+.categories img{
+  width: 120px;
+}
+.card{
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+#contact-us{
+  height: 300px;
+}
+#contact-us h6{
+  color: gray;
+}
+footer{
+  text-align: center;
+}
